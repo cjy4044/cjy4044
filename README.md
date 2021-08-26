@@ -103,8 +103,8 @@
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9C6J&layout=compact&theme=white" />
-  <img src="https://github-readme-stats.vercel.app/api?username=9C6J&show_icons=true&theme=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjy4044&layout=compact&theme=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cjy4044&show_icons=true&theme=white" />
 </div>  
 
 <br/>  
@@ -114,6 +114,6 @@
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/9C6J%2Fgjbae1212%2Fhit-counter) 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cjy4044%2Fgjbae1212%2Fhit-counter) 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java#007396&logoColor=white"/><img src="https://img.shields.io/badge/SAP UI5-0FAAFF?style=flat-square&logo=SAP&logoColor=white"/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/9C6J&count_bg=%23F54F75&title_bg=%23828282&icon=baidu.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cjy4044&count_bg=%23F54F75&title_bg=%23828282&icon=baidu.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=true)](https://hits.seeyoufarm.com)
